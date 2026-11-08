@@ -1,27 +1,138 @@
-# 💫 About Me:
-PROMPT ENGINEERING | DATA ANALYSIS | VIBE CODING | AI DEVELOPER | WEB DEVELOPMENT | PUBLIC SPEAKER<br>Motivated B.Sc. Computer Science student (Artificial Intelligence) at The New College with a strong focus on Data Analytics and Machine Learning. I am passionate about transforming complex data into actionable insights and building innovative AI solutions.<br><br>What I Bring to the Table: <br><br>• Technical Foundation: Skilled in Python, data analysis, and visualization. <br><br>• AI amp; ML Knowledge: Equipped with a solid understanding of machine learning approaches, Transformer architectures, and Hidden Markov Models (POS-Tagging). <br><br>• Hands-on Building amp; Leadership: Experienced in developing full-stack web applications and leading technical workshops to help peers turn complex project concepts into deployed realities. <br><br>• Continuous Learning: Certified in AI Fluency for Students and Artificial Intelligence Fundamentals. <br><br>• Mindset: A quick learner and highly collaborative team player who thrives in problem-solving environments.<br><br>Current Goals: I am eager to bridge the gap between academic theory and real-world application. I am currently looking for industry experience, internships, or collaborative projects where I can contribute to data-driven initiatives and continue to enhance my technical skill set.Feel free to reach out—I am always eager to connect with fellow data and AI enthusiasts!
+Create a complete, premium-quality GitHub Profile README.md for me using a **Premium Glassmorphism Design**.
 
+GitHub Username: `unaiskhan06`
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unais_aamiri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/m-mohammed-unais-khan-aamiri-633775320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unaiskhanaamiri06@gmail.com) 
+My Name: M. Mohammed Unais Khan Aamiri
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=unaiskhan06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=unaiskhan06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=unaiskhan06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Education: B.Sc. Computer Science (Artificial Intelligence), The New College, Chennai.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=unaiskhan06&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+Professional Identity:
+- AI Developer
+- Prompt Engineer
+- Data Analyst
+- Vibe Coder
+- Web Developer
+- Public Speaker
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### DESIGN STYLE
+Build a unique, futuristic and professional profile inspired by premium SaaS dashboards and modern developer portfolios.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=unaiskhan06&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+Design specifications:
+- Dark midnight background aesthetic.
+- Premium glassmorphism-inspired cards.
+- Blue and purple gradient accents.
+- Subtle glowing borders.
+- Modern typography.
+- Clean layouts and spacing.
+- Professional icons and animated SVGs.
+- Elegant section separators.
+- No clutter or excessive emojis.
 
----
-[![](https://komarev.com/ghpvc/?username=unaiskhan06&icon=1&color=2)](https://visitcount.itsvg.in)
+Color palette:
+- Background: #080B16
+- Cards: #12182A
+- Cyan: #38BDF8
+- Purple: #A78BFA
+- White: #F8FAFC
+- Secondary: #94A3B8
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### REQUIRED SECTIONS
+
+**1. HERO SECTION**
+- Animated typing introduction.
+- My name in premium typography.
+- Professional tagline.
+- Animated developer-themed SVG/GIF.
+- Social media buttons.
+- GitHub profile visitor counter.
+
+**2. ABOUT ME**
+Write a professional introduction highlighting my interests in Artificial Intelligence, Machine Learning, Data Analytics, Prompt Engineering and Full Stack Development.
+
+**3. TECH STACK**
+Create categorized technology sections with attractive badges:
+
+- Languages: Python, JavaScript, HTML, CSS.
+- AI/ML: TensorFlow, PyTorch, Scikit-learn.
+- Data Science: Pandas, NumPy, Matplotlib.
+- Backend: Django, Flask, FastAPI.
+- Databases: MySQL, PostgreSQL, SQLite, Supabase, Neo4j, Firebase.
+- Cloud: Vercel, Render, Netlify, Cloudflare.
+- Tools: Git, GitHub, Docker.
+
+**4. GITHUB ANALYTICS**
+Include:
+- GitHub Stats.
+- GitHub Streak.
+- Top Languages.
+- Contribution Activity.
+- GitHub Trophies.
+
+Use matching dark themes and premium dashboard-style arrangements.
+
+**5. CONTRIBUTION ANIMATION**
+Add an animated GitHub contribution snake using GitHub Actions. Include the complete workflow YAML file and setup instructions.
+
+**6. ACHIEVEMENTS & CERTIFICATIONS**
+Highlight:
+- Hackathon First Prize.
+- AI Fluency for Students.
+- Artificial Intelligence Fundamentals.
+- Technical workshops and public speaking.
+
+**7. FEATURED PROJECTS**
+Create premium project showcase cards.
+
+Featured project:
+DataPilot-AI
+
+Live Demo: https://datapilot-ai-ffhy.onrender.com
+
+GitHub: https://github.com/unaiskhan06
+
+Use verified repositories only. Do not invent project details.
+
+**8. SOCIAL CONNECTIONS**
+GitHub: https://github.com/unaiskhan06
+
+LinkedIn: https://www.linkedin.com/in/m-mohammed-unais-khan-aamiri-633775320
+
+Instagram: https://instagram.com/unais_aamiri
+
+Email: unaiskhanaamiri06@gmail.com
+
+**9. DEVELOPER QUOTE**
+Add an elegant developer quote section with a dark glass-inspired visual.
+
+**10. FOOTER**
+Add a stylish closing message, visitor counter and social links.
+
+### SPECIAL EFFECTS
+Use:
+- Animated typing SVG.
+- Glassmorphism-inspired visual elements.
+- Gradient headings.
+- Glowing badges.
+- Animated contribution snake.
+- Dynamic GitHub statistics.
+- Premium project showcase.
+- Modern SVG illustrations.
+
+### IMPORTANT TECHNICAL RULES
+- Generate valid GitHub README Markdown.
+- Use GitHub-compatible HTML, SVG, GIF and external image services.
+- Do not use JavaScript or unsupported CSS animations.
+- Avoid broken image URLs.
+- Make all sections mobile-friendly.
+- Keep the code clean and well organized.
+- Use reliable external services.
+- Do not invent achievements, certifications or statistics.
+
+### FINAL DELIVERABLE
+Generate:
+1. Complete README.md source code.
+2. Required GitHub Actions YAML files.
+3. Instructions for setting up animated contributions.
+4. Instructions to configure the GitHub profile repository.
+
+**FINAL GOAL:** My GitHub profile should look like a premium, futuristic personal developer portfolio with a consistent glassmorphism design, beautiful animations, elegant layouts and professional presentation. Make it visually impressive and different from ordinary GitHub profiles.
