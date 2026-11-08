@@ -13,16 +13,15 @@ PROMPT ENGINEERING | DATA ANALYSIS | VIBE CODING | AI DEVELOPER | WEB DEVELOPMEN
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=unaiskhan06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=unaiskhan06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=unaiskhan06&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=unaiskhan06&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=unaiskhan06&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=unaiskhan06&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=unaiskhan06&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
